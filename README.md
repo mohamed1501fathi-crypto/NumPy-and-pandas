@@ -1,36 +1,34 @@
-Python – Data Analysis using NumPy and Pandas
+🔢 Python Data Analysis – NumPy & Pandas
 
-Description
+Hey everyone! 👋
 
-This assignment introduces data analysis using NumPy and Pandas. It includes practical exercises involving arrays, student marks, and transaction data.
+Here is my NumPy and Pandas assignment, where I started exploring the world of data analysis with Python.
 
-Topics Covered
+I practiced working with arrays, Series, and DataFrames through different exercises.
 
-NumPy
+📚 What I Explored
 
-- Creating NumPy arrays
-- Array operations
-- Temperature data analysis
+🔹 NumPy
 
-Pandas Series
+- Creating arrays
+- Performing array operations
+- Working with temperature data
 
-- Creating Series
+🔹 Pandas
+
+- Creating Pandas Series
 - Working with student marks
-- Performing Series operations
-
-Pandas DataFrame
-
-- Creating DataFrames
+- Creating and manipulating DataFrames
 - Working with transaction data
-- Performing DataFrame operations
 
-Tools Used
+🛠️ Tools I Used
 
 - Python
 - NumPy
 - Pandas
 - Google Colab
 
-Objective
+🌱 My Learning
 
-To understand the basics of numerical computing and data manipulation using NumPy and Pandas.
+This assignment helped me take my first steps into data analysis and understand how NumPy and Pandas make working with data easier.
+
